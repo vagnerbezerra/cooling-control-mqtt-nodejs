@@ -1,0 +1,38 @@
+[
+    {
+        "cod": "sensor1",
+        "name": "Sensor 1",
+        "equipment": {
+            "cod": "ar1",
+            "name": "Ar-Condicionado 1"
+        },
+        "updatetime": 5000
+    },
+    {
+        "cod": "sensor2",
+        "name": "Sensor 2",
+        "equipment": {
+            "cod": "ar2",
+            "name": "Ar-Condicionado 2"
+        },
+        "updatetime": 12000
+    },
+    {
+        "cod": "sensor3",
+        "name": "Sensor 3",
+        "equipment": {
+            "cod": "ar3",
+            "name": "Ar-Condicionado 3"
+        },
+        "updatetime": 30000
+    },
+    {
+        "cod": "sensor4",
+        "name": "Sensor 4",
+        "equipment": {
+            "cod": "ar4",
+            "name": "Ar-Condicionado 4"
+        },
+        "updatetime": 30000
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "temperature-mqqt-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cooling-control": "node ./src/control/cooling-control.js",
+    "equipment-subscribe": "node ./src/control/equipment-subscribe.js",
+    "sensor-publish": "node ./src/control/sensor-publish.js"
+  },
+  "keywords": [
+    "MQTT",
+    "NodeJS"
+  ],
+  "author": "Vagner Bezerra",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.31",
+    "mqtt": "^4.2.1"
+  },
+  "devDependencies": {}
+}
