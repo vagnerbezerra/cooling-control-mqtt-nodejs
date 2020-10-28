@@ -16,8 +16,8 @@ npm install
 > Dica: caso queira, poderá utilizar o gerenciador *Yarn*.
 
 2. Inicie o Broker MQTT ou utilize um serviço de broker de terceiros.
-> Dica: utilize MQTT Server *Eclipse Mosquitto*.\
-Site: https://mosquitto.org/\
+> Dica: utilize MQTT Server *Eclipse Mosquitto*.  
+Site: https://mosquitto.org/  
 Documentação: https://mosquitto.org/documentation/
 ```sh
 mosquitto -v
